@@ -1,0 +1,57 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R /Annots [6 0 R] >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1349 >>
+stream
+BT
+/F1 26 Tf 1 0 0 1 56 760 Tm (Alex Rivera) Tj
+/F1 12 Tf 1 0 0 1 56 724 Tm (Full-stack engineer  |  alex.rivera@example.com  |  Lisbon, Portugal) Tj
+/F1 12 Tf 1 0 0 1 56 702 Tm (github.com/example) Tj
+/F1 10 Tf 1 0 0 1 56 680 Tm ( ) Tj
+/F1 15 Tf 1 0 0 1 56 660 Tm (Experience) Tj
+/F1 12 Tf 1 0 0 1 56 635 Tm (Senior Software Engineer, Northwind Labs \(2024 - Present\)) Tj
+/F1 11 Tf 1 0 0 1 56 613 Tm (- Rebuilt the dashboard in Next.js, time-to-interactive 4.1s -> 1.3s) Tj
+/F1 11 Tf 1 0 0 1 56 592 Tm (- Designed a typed API layer used by 6 product teams) Tj
+/F1 12 Tf 1 0 0 1 56 571 Tm (Software Engineer, Brightpath \(2021 - 2024\)) Tj
+/F1 11 Tf 1 0 0 1 56 549 Tm (- Shipped realtime collaboration for 40k monthly users) Tj
+/F1 10 Tf 1 0 0 1 56 528 Tm ( ) Tj
+/F1 15 Tf 1 0 0 1 56 508 Tm (Education) Tj
+/F1 12 Tf 1 0 0 1 56 483 Tm (B.Sc. Computer Science, University of Lisbon \(2017 - 2021\)) Tj
+/F1 10 Tf 1 0 0 1 56 461 Tm ( ) Tj
+/F1 15 Tf 1 0 0 1 56 441 Tm (Skills) Tj
+/F1 12 Tf 1 0 0 1 56 416 Tm (TypeScript, React, Next.js, Node.js, PostgreSQL, Rust, Docker, AWS) Tj
+/F1 10 Tf 1 0 0 1 56 394 Tm ( ) Tj
+/F1 15 Tf 1 0 0 1 56 374 Tm (Projects) Tj
+/F1 12 Tf 1 0 0 1 56 349 Tm (orbit-dashboard - analytics dashboard that loads in under a second) Tj
+/F1 12 Tf 1 0 0 1 56 327 Tm (quill-notes - offline-first notes that sync without a server) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Annot /Subtype /Link /Rect [56 700 300 716] /Border [0 0 0] /A << /S /URI /URI (https://github.com/example) >> >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000001728 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1867
+%%EOF
